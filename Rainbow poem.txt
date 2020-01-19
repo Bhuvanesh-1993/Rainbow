@@ -5,5 +5,5 @@ Red
 yellow
 Violet
 Indigo
-Brown
 Blue
+Orange
